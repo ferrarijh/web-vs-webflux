@@ -1,0 +1,5 @@
+rootProject.name = 'web-vs-webflux'
+include 'web-client'
+include 'webflux-client'
+include 'backend'
+
